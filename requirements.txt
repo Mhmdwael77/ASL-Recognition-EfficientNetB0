@@ -1,0 +1,7 @@
+tensorflow==2.17.0
+mediapipe==0.10.18
+opencv-python==4.8.1.78
+streamlit
+streamlit-webrtc
+numpy==1.26.4
+Pillow
