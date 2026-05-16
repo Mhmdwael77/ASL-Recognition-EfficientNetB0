@@ -112,21 +112,6 @@ streamlit run src/app.py
 python src/convert_to_tflite.py
 ```
 
-## 📥 Model Download
-
-> **Note:** If the trained model files are not available locally, download them from Kaggle and place them inside the `model/` directory.
-
-**Kaggle model link:**  
-`https://www.kaggle.com/<your-model-download-link>`
-
-Expected files:
-
-```text
-model/
-├── best_model.h5
-└── best_model.tflite
-```
-
 ## 🛠️ Technologies Used
 
 | Category | Technologies |
